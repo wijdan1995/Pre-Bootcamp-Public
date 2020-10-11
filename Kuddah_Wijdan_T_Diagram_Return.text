@@ -1,0 +1,58 @@
+Code Snippet 1 :
+console.log | hello
+console.log | Dojo
+
+Code Snippet 2:
+console.log | hello
+console.log | result is 15
+
+Code Snippet 3:
+console.log | num is 3
+console.log | x is 18
+
+Code Snippet 4 - there is a twist:
+console.log | 15
+console.log | 10
+console.log | 10
+console.log | 15
+
+
+Code Snippet 5:
+console.log | 15
+console.log | 10
+console.log | 20
+console.log | 15
+
+
+Code Snippet 6:
+console.log | num is 3
+console.log | num is 5
+console.log | result is 15
+
+
+Code Snippet 7:
+console.log | 5
+console.log | 8
+
+
+Code Snippet 8:
+console.log | 2
+console.log | 5
+console.log | 3
+console.log | 8
+
+Code Snippet 9:
+console.log | sum is 5
+console.log | sum is 8
+console.log | result is 13
+
+
+Code Snippet 10:
+console.log | sum is 5
+console.log | sum is 3
+console.log | sum is 6
+console.log | sum is 3
+console.log | sum is 5
+console.log | sum is 8
+console.log | result is 19
+
